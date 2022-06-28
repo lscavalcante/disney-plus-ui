@@ -13,7 +13,7 @@ export function MovieInfos(props: IMovieInfosProps) {
             <section>
                 <article>
                     <div className={styles.rating}>
-                        <img src="/src/assets/images/imdb_icon.png" alt="imdb movie" />
+                        <img src="assets/images/imdb_icon.png" alt="imdb movie" />
                         <strong>{props.movie?.popularity}</strong>
                     </div>
                     <div className={styles.infos}>

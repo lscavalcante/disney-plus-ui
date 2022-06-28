@@ -1,0 +1,28 @@
+@use '../../styles//mixin.scss' as mixin;
+
+.box {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    
+    position: relative;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    padding: 45px 80px 0 110px;
+    height: 100vh;
+
+    // overflow-y: hidden;
+    overflow-x: hidden;
+
+
+    @include mixin.tablet {
+        padding: 9px;
+    }
+
+    @include mixin.phone {
+        padding: 13px
+    }
+}

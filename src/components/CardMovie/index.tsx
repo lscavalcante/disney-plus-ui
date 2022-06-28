@@ -14,7 +14,7 @@ export function CardMovie(params: CardMovieParams) {
             <span>{params.category}</span>
             <span>{params.title}</span>
             <button>
-                <img src="src/assets/images/play_circle.png" alt="player circle" />
+                <img src="/src/assets/images/play_circle.png" alt="player circle" />
             </button>
          </div>
     )

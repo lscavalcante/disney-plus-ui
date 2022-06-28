@@ -18,7 +18,7 @@ export function Header(props: IHeaderProps) {
     return (
         <>
             <header className={styles.box}>
-                <img src="src/assets/images/logo.png" alt="logo disney" />
+                <img src="/src/assets/images/logo.png" alt="logo disney" />
                 <DrawerIcon isOpen={isOpen} onTap={() => setIsOpen(!isOpen)} />
             </header>
             <Menu movies={props.movies} isOpen={isOpen} selectMovie={(movie) => {props.selectMovie(movie), setIsOpen(false)}} />

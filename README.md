@@ -6,6 +6,7 @@
 
 This project is a clone of Disney Plus Catalog
 
+<a href="https://disney-plus-ui.vercel.app/" target="_blank">Open Site</a>
 
 Design by [**Itai Bracha**](https://www.figma.com/@itaibracha), [click here](https://www.figma.com/file/AfcZjKNRxDWOSSI0vrnrls?node-id=0%3A105) open project figma.
 

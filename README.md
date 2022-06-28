@@ -12,8 +12,10 @@ Design by [**Itai Bracha**](https://www.figma.com/@itaibracha), [click here](htt
 ## 🚀 Technology
 
 - HTML
-- CSS
+- SCSS
 - JavaScript
+- React JS
+- Vite
 - [API TMDB](https://www.themoviedb.org/documentation/api)
 
 ## 📔 Detail
@@ -30,10 +32,14 @@ Design by [**Itai Bracha**](https://www.figma.com/@itaibracha), [click here](htt
 ## 📺 Desktop
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-   <img src=".github/monster_2.png"  width="50%"/>
-   <img src=".github/monster_1.png" width="50%" />
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src=".github/monster_2.png"></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src=".github/monster_1.png"/></td>
+  </tr>
+</table>
 
 ---
 
